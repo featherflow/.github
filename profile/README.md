@@ -1,1 +1,1 @@
-The official homepage of FeatherFlow.
+The official homepage of bitscale.
